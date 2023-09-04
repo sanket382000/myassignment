@@ -4,8 +4,8 @@ This repository contains the code for otp auth microservice.
 
 Tech Stack consist of :
 
-- python
-- django
+- python
+- django
 - djangorestframework
 - django-otp
 - some basic libraries.
