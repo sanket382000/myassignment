@@ -1,3 +1,15 @@
+# OTP auth microservice
+
+This repository contains the code for otp auth microservice.
+
+Tech Stack consist of :
+
+- python
+- django
+- djangorestframework
+- django-otp
+- some basic libraries.
+  
 ## Introduction
 
 The Authentication Microservice is a standalone application designed to provide secure user authentication functionality for web applications. It includes OTP-based authentication, password reset, account information update, and optionally, role-based authorization. This microservice follows RESTful architecture principles.
